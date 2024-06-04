@@ -1,16 +1,15 @@
-## Hi there 👋
+## Seja bem-vindo ao meu perfil 🖤☠️
 
-<!--
-**EneSantos/EneSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Enelise Santos
 
-Here are some ideas to get you started:
+- Eu gosto de ler livros.
+- Estou cursando a 3ª série do Ensino Médio.
+- Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+Enelisesantos454@Gmail.com
+
+@ene_santoss
+
+
+![](https://media.tenor.com/1k2KfUYN6aIAAAAM/one-piece-tony-tony-chopper.gif)
